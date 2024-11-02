@@ -41,3 +41,6 @@ Prompt engineering is essential for maximizing the effectiveness of AI models, e
 * [OpenAI - Prompt Engineering Guidelines](https://platform.openai.com/docs/guides/prompt-engineering)
 
 * [What are large language models (LLMs)?](https://www.ibm.com/topics/large-language-models)
+
+* [The history, timeline, and future of LLMs](https://toloka.ai/blog/history-of-llms/)
+
